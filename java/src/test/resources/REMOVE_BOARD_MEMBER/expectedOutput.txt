@@ -1,0 +1,7 @@
+USER_CREATED 1
+BOARD_CREATED 1
+BOARD_MEMBER_ADDED 1 1
+BOARD_MEMBER_REMOVED 1 1
+ERROR: User with an id 1 is not a member of Board with an id 1
+ERROR: User with an id 5 does not exist
+ERROR: Board with an id 2 does not exist

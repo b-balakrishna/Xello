@@ -1,0 +1,7 @@
+CREATE_USER,test1@user.com,abcdefgh
+CREATE_BOARD,1,SampleBoard,PRIVATE
+CREATE_COLUMN,1,Yet to Start
+CREATE_COLUMN,1,In Progress
+CREATE_COLUMN,2,Yet to Start
+CREATE_COLUMN,1,Completed
+CREATE_COLUMN,1,Backlog

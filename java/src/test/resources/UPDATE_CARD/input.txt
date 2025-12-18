@@ -1,0 +1,9 @@
+CREATE_USER,test1@user.com,abcdefgh
+CREATE_BOARD,1,SampleBoard,PRIVATE
+CREATE_COLUMN,1,Yet to Start
+CREATE_CARD,1,Card1
+UPDATE_CARD,1,newTitle,newDescription
+UPDATE_CARD,20,newTitle,newDescription
+UPDATE_CARD,1,newTitle2,null
+UPDATE_CARD,1,null,newDescription2
+UPDATE_CARD,1,null,null

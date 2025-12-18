@@ -1,0 +1,45 @@
+USER_CREATED 1
+BOARD_CREATED 1
+COLUMN_CREATED 1
+COLUMN_CREATED 2
+COLUMN_CREATED 3
+COLUMN_CREATED 4
+CARD_CREATED 1
+CARD_CREATED 2
+CARD_CREATED 3
+CARD_CREATED 4
+CARD_CREATED 5
+CARD_CREATED 6
+CARD_CREATED 7
+CARD_CREATED 8
+CARD_CREATED 9
+CARD_CREATED 10
+CARD_CREATED 11
+CARD_CREATED 12
+CARD_CREATED 13
+CARD_CREATED 14
+CARD_CREATED 15
+CARD_CREATED 16
+Board Name: SampleBoard
+Visibility: PRIVATE
+Column: Yet to Start
+  Card: Card1
+  Card: Card6
+  Card: Card10
+  Card: Card14
+Column: In Progress
+  Card: Card2
+  Card: Card7
+  Card: Card11
+  Card: Card15
+Column: Completed
+  Card: Card3
+  Card: Card8
+  Card: Card12
+  Card: Card16
+Column: Backlog
+  Card: Card4
+  Card: Card9
+  Card: Card13
+  Card: Card17
+ERROR: Board with an id 2 does not exist

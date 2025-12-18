@@ -1,0 +1,9 @@
+USER_CREATED 1
+BOARD_CREATED 1
+COLUMN_CREATED 1
+CARD_CREATED 1
+CARD_UPDATED Card[id=1, title=newTitle, description=newDescription]
+ERROR: Card with an id 20 does not exist
+CARD_UPDATED Card[id=1, title=newTitle2, description=newDescription]
+CARD_UPDATED Card[id=1, title=newTitle2, description=newDescription2]
+CARD_UPDATED Card[id=1, title=newTitle2, description=newDescription2]

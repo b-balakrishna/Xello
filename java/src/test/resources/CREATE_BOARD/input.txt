@@ -1,0 +1,3 @@
+CREATE_USER,test1@user.com,abcdefgh
+CREATE_BOARD,1,SampleBoard,PRIVATE
+CREATE_BOARD,10,SampleBoard2,PUBLIC

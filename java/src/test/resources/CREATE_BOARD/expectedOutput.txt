@@ -1,0 +1,3 @@
+USER_CREATED 1
+BOARD_CREATED 1
+ERROR: User with an id 10 does not exist

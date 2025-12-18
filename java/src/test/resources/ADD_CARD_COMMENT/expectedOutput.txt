@@ -1,0 +1,8 @@
+USER_CREATED 1
+BOARD_CREATED 1
+COLUMN_CREATED 1
+CARD_CREATED 1
+CARD_CREATED 2
+CARD_COMMENT_ADDED 1
+ERROR: User with an id 500 does not exist
+ERROR: Card with an id 3 does not exist
